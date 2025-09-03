@@ -1,2 +1,2 @@
-# Times-Decomposition-Analysis 
+# Times Series-Decomposition-Analysis 
 Time series analysis is a powerful technique used to understand and predict patterns in data that is collected over time. Unlike traditional data sets, time series data contains a temporal component, where observations are ordered chronologically. This type of analysis plays a crucial role in various industries, from stock market forecasting and weather prediction to sales forecasting and sensor data analysis.
